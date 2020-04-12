@@ -1,6 +1,4 @@
-# things-that-might-be-up-in-the-future
-idk maybe something will eventually be posted on here  but idk at this point
-i mean my account will probably not be used for posing any code, manely just commenting and the occasional really basic program.
-i mean the most I've done is try to learn javascript and then become not interested and switch staright to music so I mean in the future you could  be getting a midi player/maker but don't count on it alright?
-ty thanks for viewing
-tho im only 10
+# Tasmania Mod (Minecraft 1.12 forge)
+So I've just stopped learning python for now
+BUT
+I am making a Minecraft mod right now. This will be interesting. Version 1.0 will be up extremely soon. The mod will be made using MCreator. Hopefully it will be good! I'm also making a CurseForge page on this as well. ty for viewing <3
